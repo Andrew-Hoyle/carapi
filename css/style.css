@@ -1,0 +1,13 @@
+body {
+    color: rgba(172, 18, 18, 0.849);
+    background-color: rgba(211, 223, 211, 0.658);
+}
+ 
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+#container-main{
+    justify-content: center;
+    margin-left: 50%;
+}
