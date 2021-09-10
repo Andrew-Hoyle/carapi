@@ -27,3 +27,7 @@ const load_data = async () => {
 const clear_data = () => {
     document.querySelector(DOM_Elements.ranger_list).innerHTML = "";
 }
+
+
+// fetch data???
+// TRY WITH A FETCH METHOD?
